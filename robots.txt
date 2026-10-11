@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+# Never index proxied pages or the tool endpoint - they are thin,
+# ever-changing duplicates of third-party sites.
+Disallow: /proxy.php
+Disallow: /inc/
+
+Sitemap: https://pornproxy.com/sitemap.xml
