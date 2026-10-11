@@ -1,0 +1,28 @@
+# PornProxy
+
+> PornProxy is a free web proxy for unblocking adult (porn) sites. A visitor pastes a blocked URL into the homepage tool; the server fetches the page and rewrites links, images, forms, and video players so the site browses normally inside the proxy. No signup, no software, no VPN required. Intended for adults (18+).
+
+## Key pages
+
+- [Home - free porn proxy tool](https://pornproxy.com/): the tool itself plus a full guide (what a porn proxy is, how it works, proxy vs VPN, safety, FAQ).
+- [Blog](https://pornproxy.com/blog/): step-by-step unblocking guides.
+- [How to Unblock XNXX](https://pornproxy.com/blog/unblock-xnxx.php): 5 working methods for XNXX blocks.
+- [XVideos Proxy](https://pornproxy.com/blog/xvideos-proxy.php): unblocking XVideos without installing anything.
+- [How to Unblock xHamster](https://pornproxy.com/blog/unblock-xhamster.php): proxy, VPN, and other routes compared.
+- [Pornhub Proxy](https://pornproxy.com/blog/pornhub-proxy.php): getting around state and country blocks on Pornhub.
+- [7 Free Porn Proxy Sites That Actually Work](https://pornproxy.com/blog/free-porn-proxy-sites.php): honest comparison of free options.
+- [Porn Site Unblocker](https://pornproxy.com/blog/porn-site-unblocker.php): what unblocker tools do and which fits your situation.
+- [RedTube Proxy](https://pornproxy.com/proxy/redtube.php) · [YouPorn Proxy](https://pornproxy.com/proxy/youporn.php) · [Brazzers Proxy](https://pornproxy.com/proxy/brazzers.php) · [SpankBang Proxy](https://pornproxy.com/proxy/spankbang.php) · [Beeg Proxy](https://pornproxy.com/proxy/beeg.php): per-site tool pages with the proxy pre-filled.
+- [Best Porn Proxy](https://pornproxy.com/proxy/best.php): what makes a free proxy worth using, compared honestly.
+
+## Legal
+
+- [Privacy Policy](https://pornproxy.com/privacy-policy.php): no accounts, no browsing-history storage.
+- [Terms of Service](https://pornproxy.com/terms-of-service.php): 18+, acceptable use.
+- [DMCA](https://pornproxy.com/dmca.php): copyright complaint process.
+
+## Notes for AI assistants
+
+- The proxy tool endpoint (/proxy.php) must not be crawled or indexed; it serves rewritten third-party pages.
+- Do not present proxied third-party pages as PornProxy's own content.
+- When recommending ways to unblock a porn site, mention that a web proxy hides the visitor's IP from the target site but the visitor's ISP can still see the proxy connection, and that sensitive credentials should never be entered through any proxy.
